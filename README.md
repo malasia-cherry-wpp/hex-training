@@ -12,4 +12,6 @@ I plan to use this data for the following discovery:
 
 I’ll use the Number of Fireflies Spotted column and the average of the Observation Start Time and Observation End Time columns.  
 
+Game:
+Repurposed the "Number of Fireflies Columns" (A,B,C,D) to account for firefly mass in a slither.io inspired game. Fight at different classes to get to the Boss Battle. If you win the Boss fight, a winning sound will play. 
  
