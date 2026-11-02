@@ -1,0 +1,7 @@
+﻿latitude,longitude,habitat_type,starting_mass,base_lifespan_seconds,food_value,movement_speed,images
+29.959244,-98.064722,Forest,10,20,5,5,https://github.com/malasia-cherry-wpp/hex-training/blob/main/images/firefly_blue.jpg
+29.99679,-98.09635,Forest,10,20,5,5,https://github.com/malasia-cherry-wpp/hex-training/blob/main/images/firefly_green.jpg
+29.959244,-98.064722,Forest,10,20,5,5,https://github.com/malasia-cherry-wpp/hex-training/blob/main/images/firefly_pink.jpg
+40.649229,-73.634236,Mowed Lawn,25,20,5,5,https://github.com/malasia-cherry-wpp/hex-training/blob/main/images/firefly_purple.jpg
+29.585964,-95.064393,Wetlands,50,100,25,3,https://github.com/malasia-cherry-wpp/hex-training/blob/main/images/firefly_yellow.jpg
+29.585964,-95.064393,Wetlands,100,200,50,2,https://github.com/malasia-cherry-wpp/hex-training/blob/main/images/firely_red.jpg

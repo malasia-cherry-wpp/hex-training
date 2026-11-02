@@ -1,0 +1,7 @@
+latitude,longitude,habitat_type,starting_mass,base_lifespan_seconds,food_value,movement_speed
+29.959244,-98.064722,Forest,10,20,5.0,5.0
+29.99679,-98.09635,Forest,10,20,5.0,5.0
+29.959244,-98.064722,Forest,10,20,5.0,5.0
+40.649229,-73.634236,Mowed Lawn,10,20,5.0,5.0
+29.585964,-95.064393,Wetlands,50,100,25.0,3.0
+29.585964,-95.064393,Wetlands,100,200,50.0,2.0
